@@ -1,0 +1,6 @@
+ru\netology\springboot\Application.class
+ru\netology\springboot\config\JavaConfig.class
+ru\netology\springboot\systemProfile\SystemProfile.class
+ru\netology\springboot\controller\ProfileController.class
+ru\netology\springboot\systemProfile\ProductionProfile.class
+ru\netology\springboot\systemProfile\DevProfile.class
